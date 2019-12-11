@@ -1,1 +1,3 @@
-# bazelcon2019-citalk
+# Java Examples
+
+This directory contains examples for Java language rules.

@@ -1,0 +1,9 @@
+{
+    "build_targets": [
+        "...",
+        "-src/main/java/com/example/myproject:hello-error-prone"
+    ],
+    "test_targets": [
+        "..."
+    ]
+}
